@@ -1,0 +1,4 @@
+Python is a popular programming language.
+Python is easy to learn and easy to use.
+This project uses Python to count words.
+Word counting is useful for basic text analysis.
